@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NewMaster.Master">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>JIhQAAAHABAAIgqBgFUgQEAASEEMAhgB40BBAAJQgAI=</HashCode>
+      <FileName>Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewMaster.InteractionState">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="NewMaster.InteractionState.STATE">
+        <TypeIdentifier>
+          <NewMemberFileName>Master.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAABAAAAAA=</HashCode>
+      <FileName>Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewMaster.AwaitingAck">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewMaster.NetworkPublisher">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADgAAAAAAAAAAAAAAAAAAAAAAABAAAAAMACACAAAA=</HashCode>
+      <FileName>NetworkPublisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewMaster.InteractionCoaxerMaster">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InteractionCoaxerMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewMaster.ICModelController">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAACAAAAAAACIAAAAAAAIBAABAAAEAAAAIgAA=</HashCode>
+      <FileName>ICModelController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

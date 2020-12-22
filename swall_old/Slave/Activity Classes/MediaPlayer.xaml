@@ -1,0 +1,128 @@
+﻿<UserControl x:Name="userControl" x:Class="Prototype1.Activity_Classes.MediaPlayer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Prototype1.Activity_Classes"
+             xmlns:style="clr-namespace:Prototype1.Styles"
+             mc:Ignorable="d" 
+             d:DesignHeight="1060" d:DesignWidth="1900" HorizontalAlignment="Left"
+             >
+
+    <UserControl.Resources>
+
+        <Storyboard x:Key="FadeIn">
+            <DoubleAnimation Duration="0:0:0.5" Storyboard.TargetProperty="Opacity" From="0" To="1" />
+        </Storyboard>
+        <Storyboard x:Key="FadeOut" Completed="FadeOut_Completed">
+            <DoubleAnimation Duration="0:0:.5" Storyboard.TargetProperty="Opacity" From="1" To="0" />
+        </Storyboard>
+        <ControlTemplate x:Key="ButtonControlTemplate1" TargetType="{x:Type Button}">
+            <Grid x:Name="grid">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualStateGroup.Transitions>
+                            <VisualTransition From="Normal" GeneratedDuration="0:0:0.01" To="Pressed"/>
+                            <VisualTransition From="MouseOver" GeneratedDuration="0:0:0.1" To="Normal"/>
+                            <VisualTransition From="Normal" GeneratedDuration="0:0:0.1" To="MouseOver"/>
+                            <VisualTransition From="MouseOver" GeneratedDuration="0:0:0.01" To="Pressed"/>
+                            <VisualTransition GeneratedDuration="0:0:0.1"/>
+                            <VisualTransition From="Pressed" GeneratedDuration="0:0:0.2"/>
+                        </VisualStateGroup.Transitions>
+                        <VisualState x:Name="Normal"/>
+                        <VisualState x:Name="MouseOver">
+                            <Storyboard>
+                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                                </DoubleAnimationUsingKeyFrames>
+                            </Storyboard>
+                        </VisualState>
+                        <VisualState x:Name="Pressed">
+                            <Storyboard>
+                                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(Viewbox.Stretch)" Storyboard.TargetName="image">
+                                    <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Stretch.Fill}"/>
+                                </ObjectAnimationUsingKeyFrames>
+                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                                </DoubleAnimationUsingKeyFrames>
+                            </Storyboard>
+                        </VisualState>
+                        <VisualState x:Name="Disabled"/>
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+                <Image x:Name="image" Opacity="0.5" Source="/Prototype1;component/Resources/Buttons/left.png"/>
+            </Grid>
+        </ControlTemplate>
+        <ControlTemplate x:Key="ButtonControlTemplate2" TargetType="{x:Type Button}">
+            <Grid x:Name="grid">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualStateGroup.Transitions>
+                            <VisualTransition From="Normal" GeneratedDuration="0:0:0.01" To="Pressed"/>
+                            <VisualTransition From="MouseOver" GeneratedDuration="0:0:0.1" To="Normal"/>
+                            <VisualTransition From="Normal" GeneratedDuration="0:0:0.1" To="MouseOver"/>
+                            <VisualTransition From="MouseOver" GeneratedDuration="0:0:0.01" To="Pressed"/>
+                            <VisualTransition GeneratedDuration="0:0:0.1"/>
+                            <VisualTransition From="Pressed" GeneratedDuration="0:0:0.2"/>
+                        </VisualStateGroup.Transitions>
+                        <VisualState x:Name="Normal"/>
+                        <VisualState x:Name="MouseOver">
+                            <Storyboard>
+                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                                </DoubleAnimationUsingKeyFrames>
+                            </Storyboard>
+                        </VisualState>
+                        <VisualState x:Name="Pressed">
+                            <Storyboard>
+                                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(Viewbox.Stretch)" Storyboard.TargetName="image">
+                                    <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Stretch.Fill}"/>
+                                </ObjectAnimationUsingKeyFrames>
+                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                                    <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                                </DoubleAnimationUsingKeyFrames>
+                            </Storyboard>
+                        </VisualState>
+                        <VisualState x:Name="Disabled"/>
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+                <Image x:Name="image" Opacity="0.5" Source="/Prototype1;component/Resources/Buttons/right.png"/>
+            </Grid>
+        </ControlTemplate>
+    </UserControl.Resources>
+
+    <Grid x:Name="grid" Background="Black">
+        <local:VideoAudioPlayer x:Name="mediaSlideshowVideo" 
+                                InteractiveElementsVisibility="{Binding IsInteractive, ElementName=userControl}"
+                                Margin="10"/>
+
+        <Image x:Name="mediaSlideshowImage" Stretch="Fill" Margin="10"/>
+
+        <Button x:Name="button" Content="X" HorizontalAlignment="Right" VerticalAlignment="Top" BorderBrush="{x:Null}"
+                Visibility="{Binding InteractiveElementsVisibility, ElementName=userControl, Mode=OneWay}"
+                Click="button_Click" Padding="1" FontWeight="Bold" FontFamily="Arial" FontSize="70">
+            <Button.Background>
+                <RadialGradientBrush>
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="Red" Offset="0.568"/>
+                    <GradientStop Color="Transparent" Offset="1"/>
+                </RadialGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="backButton" Visibility="{Binding IsSlideshow, ElementName=userControl, Mode=OneWay}"
+                Margin="0,200,1500,200" BorderBrush="{x:Null}" Click="backButton_Click" 
+                Template="{DynamicResource ButtonControlTemplate1}"
+                >
+            <Button.Background>
+                <ImageBrush ImageSource="/Prototype1;component/Resources/Buttons/left.png" Opacity="0.3"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="forwardButton" Visibility="{Binding IsSlideshow, ElementName=userControl, Mode=OneWay}"
+                Margin="1500,200,0,200" BorderBrush="{x:Null}" Click="forwardButton_Click" Template="{DynamicResource ButtonControlTemplate2}">
+            <Button.Background>
+                <ImageBrush ImageSource="/Prototype1;component/Resources/Buttons/right.png" Opacity="0.3"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+
+</UserControl>

@@ -1,0 +1,327 @@
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th_logo_redbox.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\bird.gif
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\closebutton.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\runButton.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\button_multi-screen-mode.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\CarletonWide_Tag_K_186.gif
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\CU Logo.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\CULogo.gif
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\CULogo.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\default.gif
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\glossySilverPauseButton.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\glowingPurplePauseButton.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\gray.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\20080729_Carleton_Engineering-002.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\20080729_Carleton_Engineering-022.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\20080730_Carleton_Engineering-083.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\20080730_Carleton_Engineering-114.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\DSC_4450.mp4
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\IMG_4247.JPG
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\me4233.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\20080729_Carleton_Engineering-002.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\20080729_Carleton_Engineering-022.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\20080729_Carleton_Engineering-106.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\20080730_Carleton_Engineering-083.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\20080730_Carleton_Engineering-114.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\Boot Animation Preview C-ROM 1080x1920.mp4
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\DSC_4450.mp4
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\me4233.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\SDK board.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\20080729_Carleton_Engineering-002.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\20080729_Carleton_Engineering-022.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\20080730_Carleton_Engineering-083.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\20080730_Carleton_Engineering-114.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\Boot Animation Preview C-ROM 1080x1920.mp4
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\DSC_4450.mp4
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\IMG_0085.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\me4233.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\me4485.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\Picture 072.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\20080729_Carleton_Engineering-002.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\20080729_Carleton_Engineering-022.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\20080730_Carleton_Engineering-036.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\20080730_Carleton_Engineering-083.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\20080730_Carleton_Engineering-114.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\Boot Animation Preview C-ROM 1080x1920.mp4
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\camco-vortex-6-580248.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\DSC_4450.mp4
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\IMG_0018.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\MB062.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\me4233.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\me4485.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\mesh-prod2.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\3240x1920.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\9e826fe1_lt9uzod.jpeg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\2121-3.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\android-2160x1920-wallpaper_02760.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\wallhaven-336261.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\Best-iPhone-5-Wallpapers-Free-Download.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\Best-iPhone-5-Wallpapers-Screen-Download.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\Boot Animation Preview C-ROM 1080x1920.mp4
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\Free-Download-Best-iPhone-5-Wallpaper-HD.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\Picture 041.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\MenuBackground.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\MenuBackgroundDraft_v2.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\MenuBackgroundDraft_v3.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\MenuBackgroundDraft_v4.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\MenuBackgroundDraft_v5.jpg
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\play-button.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\transparentGlassPauseButton.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Filters.xml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Header Graphics\BG.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Header Graphics\ENG Active.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Header Graphics\ENG Rest.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Header Graphics\Filter Active.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Header Graphics\Filter Rest.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Header Graphics\SEARCH active.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Header Graphics\SEARCH rest.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\Back active.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\Back rest.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\Close Active.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\Close Rest.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\Home Active.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\Home Rest.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\left.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Buttons\right.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th\75th_bw.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th\75th_logo_blackbox.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th\75th_logo_redbox.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th\75th_rw.png
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th\CarletonWide_K_186.gif
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th\CarletonWide_K.gif
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th\CarletonWide_Tag_K.gif
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\75th\CarletonWide_Tag_K_186.gif
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Idle Interaction Transition\MENU 1.mov
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Resources\Idle Interaction Transition\MENU 2.mov
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\amd64\libzmq.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\amd64\libsodium.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\i386\libzmq.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\i386\libsodium.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\amd64\libzmq.so
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\i386\libzmq.so
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\childSlave.exe.config
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\childSlave.exe
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\childSlave.pdb
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\en-CA\childSlave.resources.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Microsoft.Kinect.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\NAudio.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\WpfAnimatedGif.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\ZeroMQ.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\Microsoft.Kinect.xml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\NAudio.xml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\WpfAnimatedGif.xml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\bin\Debug\ZeroMQ.xml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Client.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Styles\Simple Styles.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\ActivityMatrix.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\ActivityView.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\MediaPlayer.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\VideoAudioPlayer.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\VidPlayer.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\AppSpace Classes\ActiveAppSpace.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\AppSpace Classes\IdleAppSpace.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\AppSpace Classes\MenuHeader.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Client.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\MainWindow.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\AppSpace Classes\FilterPanel.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\MessageBox.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\ProcessHostWindow.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\SwipeToExit.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\VirtualKeyboard.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\App.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\childSlave_Content.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\childSlave_MarkupCompile.cache
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\childSlave_MarkupCompile.lref
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Prototype1.Properties.Resources.resources
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Slave.csproj.GenerateResource.cache
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Slave.csproj.CoreCompileInputs.cache
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\ActivityMatrix.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\ActivityView.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\MediaPlayer.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\VideoAudioPlayer.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Activity Classes\VidPlayer.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\AppSpace Classes\ActiveAppSpace.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\AppSpace Classes\IdleAppSpace.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\AppSpace Classes\MenuHeader.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\MainWindow.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\AppSpace Classes\FilterPanel.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\MessageBox.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\ProcessHostWindow.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Styles\MenuStyles.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Styles\VolumeSlider.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\SwipeToExit.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\VirtualKeyboard.baml
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\childSlave.g.en-CA.resources
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\en-CA\childSlave.resources.dll
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\Slave.csproj.CopyComplete
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\childSlave.exe
+C:\Users\sysc-gr\Desktop\swall code\slave_git\swall\obj\Debug\childSlave.pdb
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th_logo_redbox.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\bird.gif
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\closebutton.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\runButton.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\button_multi-screen-mode.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\CarletonWide_Tag_K_186.gif
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\CU Logo.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\CULogo.gif
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\CULogo.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\default.gif
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\glossySilverPauseButton.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\glowingPurplePauseButton.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\gray.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\20080729_Carleton_Engineering-002.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\20080729_Carleton_Engineering-022.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\20080730_Carleton_Engineering-083.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\20080730_Carleton_Engineering-114.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\20080729_Carleton_Engineering-106.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\me4233.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\SDK board.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\Picture 072.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\IMG_0018.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\me4485.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\Picture 041.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\MenuBackground.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\MenuBackgroundDraft_v2.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\MenuBackgroundDraft_v3.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\MenuBackgroundDraft_v4.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\MenuBackgroundDraft_v5.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\play-button.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\transparentGlassPauseButton.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Filters.xml
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Header Graphics\BG.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Header Graphics\ENG Active.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Header Graphics\ENG Rest.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Header Graphics\Filter Active.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Header Graphics\Filter Rest.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Header Graphics\SEARCH active.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Header Graphics\SEARCH rest.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\Back active.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\Back rest.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\Close Active.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\Close Rest.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\Home Active.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\Home Rest.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\left.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Buttons\right.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th\75th_bw.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th\75th_logo_blackbox.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th\75th_logo_redbox.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th\75th_rw.png
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th\CarletonWide_K_186.gif
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th\CarletonWide_K.gif
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th\CarletonWide_Tag_K.gif
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\75th\CarletonWide_Tag_K_186.gif
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Idle Interaction Transition\MENU 1.mov
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\Idle Interaction Transition\MENU 2.mov
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\amd64\libzmq.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\amd64\libsodium.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\i386\libzmq.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\i386\libsodium.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\amd64\libzmq.so
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\i386\libzmq.so
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\childSlave.exe.config
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\childSlave.exe
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\childSlave.pdb
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\en-CA\childSlave.resources.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Microsoft.Kinect.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\NAudio.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\WpfAnimatedGif.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\ZeroMQ.dll
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Microsoft.Kinect.xml
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\NAudio.xml
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\WpfAnimatedGif.xml
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\ZeroMQ.xml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Slave.csprojResolveAssemblyReference.cache
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Client.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Styles\Simple Styles.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\ActivityMatrix.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\ActivityView.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\MediaPlayer.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\VideoAudioPlayer.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\VidPlayer.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\AppSpace Classes\ActiveAppSpace.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\AppSpace Classes\IdleAppSpace.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\AppSpace Classes\MenuHeader.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Client.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\MainWindow.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\AppSpace Classes\FilterPanel.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\MessageBox.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\ProcessHostWindow.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\SwipeToExit.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\VirtualKeyboard.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\App.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\childSlave_Content.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\childSlave_MarkupCompile.cache
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\childSlave_MarkupCompile.lref
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Prototype1.Properties.Resources.resources
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Slave.csproj.GenerateResource.Cache
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\ActivityMatrix.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\ActivityView.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\MediaPlayer.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\VideoAudioPlayer.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Activity Classes\VidPlayer.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\AppSpace Classes\ActiveAppSpace.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\AppSpace Classes\IdleAppSpace.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\AppSpace Classes\MenuHeader.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\MainWindow.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\AppSpace Classes\FilterPanel.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\MessageBox.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\ProcessHostWindow.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Styles\MenuStyles.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\Styles\VolumeSlider.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\SwipeToExit.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\VirtualKeyboard.baml
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\childSlave.g.en-CA.resources
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\en-CA\childSlave.resources.dll
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\childSlave.exe
+C:\Users\swallt\Desktop\slave_git\swall\obj\Debug\childSlave.pdb
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\CarletonEngineeringEvent-003.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\CarletonEngineeringEvent-011.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\CarletonEngineeringEvent-026.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\CarletonEngineeringEvent-031.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\CarletonEngineeringEvent-035.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\CarletonEngineeringEvent-062.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\CarletonEngineeringEvent-064.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size1\CarletonEngineeringEvent-067.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-002.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-005.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-011.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-014.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-015.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-017.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-025.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-036.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-042.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-051.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-053.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-064.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\CarletonEngineeringEvent-066.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\IMG_2144.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size2\_JTB8916.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\CarletonEngineeringEvent-001.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\CarletonEngineeringEvent-024.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\CarletonEngineeringEvent-028.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\CarletonEngineeringEvent-034.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\CarletonEngineeringEvent-038.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\CarletonEngineeringEvent-039.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\CarletonEngineeringEvent-068.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\CarletonEngineeringEvent-069.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\IMG_2129.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\IMG_2135.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\IMG_2143.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\IMG_2144.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\IMG_2149.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size3\_JTD9032.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\CarletonEngineeringEvent-028.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\CarletonEngineeringEvent-029.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\CarletonEngineeringEvent-043.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\CarletonEngineeringEvent-063.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\CarletonEngineeringEvent-069.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\IMG_2129.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\IMG_2132.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\IMG_2140.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\IMG_2144.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\IMG_2145.jpg
+C:\Users\swallt\Desktop\slave_git\swall\bin\Debug\Resources\IdleMedia\Size4\IMG_2147.jpg

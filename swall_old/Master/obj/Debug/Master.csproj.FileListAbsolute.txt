@@ -1,0 +1,96 @@
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\amd64\libzmq.dll
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\amd64\libsodium.dll
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\i386\libzmq.dll
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\i386\libsodium.dll
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\amd64\libzmq.so
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\i386\libzmq.so
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\Master.exe.config
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\Master.exe.manifest
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\Master.application
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\Master.exe
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\Master.pdb
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\Microsoft.Kinect.dll
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\WpfAnimatedGif.dll
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\ZeroMQ.dll
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\Microsoft.Kinect.xml
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\WpfAnimatedGif.xml
+C:\Users\sysc-gr\Desktop\swall code\master\swall\bin\Debug\ZeroMQ.xml
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\MainWindow.g.cs
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\App.g.cs
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master_MarkupCompile.cache
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master_MarkupCompile.lref
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\MainWindow.baml
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.g.resources
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\NewMaster.Properties.Resources.resources
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.csproj.GenerateResource.cache
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.csproj.CoreCompileInputs.cache
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.TrustInfo.xml
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.exe.manifest
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.application
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.csproj.CopyComplete
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.exe
+C:\Users\sysc-gr\Desktop\swall code\master\swall\obj\Debug\Master.pdb
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\Master.exe.config
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master.exe
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master.pdb
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\amd64\libzmq.dll
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\amd64\libsodium.dll
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\i386\libzmq.dll
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\i386\libsodium.dll
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\amd64\libzmq.so
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\i386\libzmq.so
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\Master.exe.manifest
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\Master.application
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\Master.exe
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\Master.pdb
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\Microsoft.Kinect.dll
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\WpfAnimatedGif.dll
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\ZeroMQ.dll
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\Microsoft.Kinect.xml
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\WpfAnimatedGif.xml
+C:\Users\swallt\Desktop\master - Copy\swall\bin\Debug\ZeroMQ.xml
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master.csprojResolveAssemblyReference.cache
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\MainWindow.g.cs
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\App.g.cs
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master_MarkupCompile.cache
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master_MarkupCompile.lref
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\MainWindow.baml
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master.g.resources
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\NewMaster.Properties.Resources.resources
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master.csproj.GenerateResource.Cache
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master.TrustInfo.xml
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master.exe.manifest
+C:\Users\swallt\Desktop\master - Copy\swall\obj\Debug\Master.application
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\amd64\libzmq.dll
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\amd64\libsodium.dll
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\i386\libzmq.dll
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\i386\libsodium.dll
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\amd64\libzmq.so
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\i386\libzmq.so
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\Master.exe.config
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\Master.exe.manifest
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\Master.application
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\Master.exe
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\Master.pdb
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\Microsoft.Kinect.dll
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\WpfAnimatedGif.dll
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\ZeroMQ.dll
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\Microsoft.Kinect.xml
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\WpfAnimatedGif.xml
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\bin\Debug\ZeroMQ.xml
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.csprojAssemblyReference.cache
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\MainWindow.g.cs
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\App.g.cs
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master_MarkupCompile.cache
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master_MarkupCompile.lref
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\MainWindow.baml
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.g.resources
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\NewMaster.Properties.Resources.resources
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.csproj.GenerateResource.cache
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.csproj.CoreCompileInputs.cache
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.TrustInfo.xml
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.exe.manifest
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.application
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.csproj.CopyComplete
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.exe
+C:\Users\sysc-gr\Desktop\swall code\30 july swall\master\swall\obj\Debug\Master.pdb

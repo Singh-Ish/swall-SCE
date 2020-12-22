@@ -1,0 +1,20 @@
+﻿childSlave
+
+
+winexe
+C#
+.cs
+C:\Users\sysc-gr\Desktop\sWall-git\Slave\obj\Debug\
+Prototype1
+none
+false
+DEBUG;TRACE
+C:\Users\sysc-gr\Desktop\sWall-git\Slave\App.xaml
+181515087996
+106-678951985
+40-359387764
+221488265705
+Activity Classes\ActivityMatrix.xaml;Activity Classes\ActivityView.xaml;Activity Classes\MediaPlayer.xaml;Activity Classes\VideoAudioPlayer.xaml;Activity Classes\VidPlayer.xaml;AppSpace Classes\ActiveAppSpace.xaml;AppSpace Classes\IdleAppSpace.xaml;AppSpace Classes\MenuHeader.xaml;Client.xaml;MainWindow.xaml;AppSpace Classes\FilterPanel.xaml;MessageBox.xaml;ProcessHostWindow.xaml;Styles\MenuStyles.xaml;Styles\Simple Styles.xaml;Styles\VolumeSlider.xaml;SwipeToExit.xaml;VirtualKeyboard.xaml;
+
+False
+

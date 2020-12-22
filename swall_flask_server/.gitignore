@@ -1,0 +1,5 @@
+Downloads_in_progress/
+config/config.txt
+__pycache__/
+*.pyc
+venv/

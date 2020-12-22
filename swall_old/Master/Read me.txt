@@ -1,0 +1,4 @@
+This code does not contain the bin and resource folder which is approx 500 mb each 
+
+1. Resource folder need to be copied
+2. build the master solution using visual studio 

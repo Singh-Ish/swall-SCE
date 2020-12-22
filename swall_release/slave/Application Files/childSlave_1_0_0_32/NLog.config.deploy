@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.nlog-project.org/schemas/NLog.xsd NLog.xsd"
+      autoReload="true"
+      throwExceptions="false"
+      throwConfigExceptions="true"
+      internalLogLevel="Off" internalLogFile="c:\temp\nlog-internal.log">
+
+  <!-- optional, add some variables
+  https://github.com/nlog/NLog/wiki/Configuration-file#variables
+  -->
+  <variable name="myvar" value="myvalue"/>
+
+  <!--
+  See https://github.com/nlog/nlog/wiki/Configuration-file
+  for information on customizing logging rules and outputs.
+   -->
+  <targets async="true">
+
+    <!--
+    add your targets here
+    See https://github.com/nlog/NLog/wiki/Targets for possible targets.
+    See https://github.com/nlog/NLog/wiki/Layout-Renderers for the possible layout renderers.
+    -->
+
+    <!--
+    Write events to a file with the date in the filename.
+    <target xsi:type="File" name="f" fileName="${basedir}/logs/${shortdate}.log"
+            layout="${longdate} ${uppercase:${level}} ${message}" />
+    -->
+    <target name="emailBuffer" xsi:type="BufferingWrapper" bufferSize="10" flushTimeout="60000" slidingTimeout="false" overflowAction="Flush">
+      <target xsi:type="Mail" name="email" html="true"
+              subject="sWall Error Log"
+              to="n.frank95@live.com"
+              from="n.frank95@live.com"
+              body="&lt;body&gt;
+                      &lt;p&gt;
+                        &lt;b style=&quot;color:blue&quot;&gt;Date:&lt;/b&gt; &lt;strong&gt;${longdate}&lt;/strong&gt;&lt;br/&gt;
+                        &lt;b style=&quot;color:blue&quot;&gt;Log Level: &lt;/b&gt; &lt;strong&gt;${uppercase:${level}}&lt;/strong&gt;&lt;br/&gt;
+                        &lt;b style=&quot;color:blue&quot;&gt;Calling Class: &lt;/b&gt; &lt;strong&gt;${callsite:className=true:fileName=true:includeSourcePath=true:methodName=true}&lt;/strong&gt;&lt;br/&gt;
+                      &lt;/p&gt;
+                      &lt;p&gt;
+                        &lt;b style=&quot;color:blue&quot;&gt;Message: &lt;/b&gt; &lt;p&gt; &lt;i style=&quot;color:yellow&quot;&gt;${message}&lt;/i&gt;&lt;/p&gt;&lt;br/&gt;
+                        &lt;b style=&quot;color:blue&quot;&gt;Exception: &lt;/b&gt; &lt;p style=&quot;color:red&quot;&gt;${exception:format=@}&lt;/p&gt;&lt;br/&gt;
+                      &lt;/p&gt;
+                    &lt;/body&gt;"
+              enableSsl="true"
+              smtpAuthentication="Basic"
+              smtpServer="smtp-mail.outlook.com"
+              smtpUserName="n.frank95@live.com"
+              smtpPassword="Jesusislord4eva!"
+              smtpPort="587"
+              addNewLines="true" />
+    </target>
+    <target xsi:type="File" name="file" fileName="${basedir}/logs/${shortdate}.log"
+            layout="${longdate} ${uppercase:${level}} ${callsite:className=true:fileName=true:includeSourcePath=true:methodName=true} - ${message} - ${exception:format=tostring}" />
+    <target name="console" xsi:type="Console" layout="${longdate} ${uppercase:${level}} ${callsite:className=true:fileName=true:includeSourcePath=true:methodName=true} - ${message} - ${exception:format=tostring}"/>
+  </targets>
+
+  <rules>
+    <!-- add your logging rules here -->
+
+    <!--
+    Write all events with minimal level of Debug (So Debug, Info, Warn, Error and Fatal, but not Trace)  to "f"
+    <logger name="*" minlevel="Debug" writeTo="f" />
+    -->
+    <logger name="*" minlevel="Trace" writeTo="console" />
+    <logger name="*" minlevel="Info" writeTo="file" />
+    <logger name="*" minlevel="Error" writeTo="emailBuffer" />
+  </rules>
+</nlog>
